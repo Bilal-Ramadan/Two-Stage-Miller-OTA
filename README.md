@@ -22,7 +22,7 @@ Output swing --> 0.2 – 1.6 V
 
 Load --> 5 pF
 
-Buffer closed loop rise time (10% to 90%) --> <= 70 ns
+Buffer closed loop rise time (10 % to 90 %) --> <= 70 ns
 
 Slew rate --> 𝟓 𝑽/𝝁𝒔
 
