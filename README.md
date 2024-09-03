@@ -4,24 +4,24 @@ Specs:
 
 Technology --> 180-nm CMOS
 
-Supply voltage --> 1.8V
+Supply voltage --> 1.8 V
 
-Static gain error --> <= 0.05%
+Static gain error --> <= 0.05 %
 
-CMRR @ DC --> >= 74dB
+CMRR @ DC --> >= 74 dB
 
-Phase margin --> >= 70o
+Phase margin --> >= 70°
 
-OTA current consumption --> <= 60uA
+OTA current consumption --> <= 60 uA
 
-CMIR – high --> >= 1V
+CMIR – high --> >= 1 V
 
-CMIR – low --> <= 0.2V
+CMIR – low --> <= 0.2 V
 
-Output swing --> 0.2 – 1.6V
+Output swing --> 0.2 – 1.6 V
 
-Load --> 5pF
+Load --> 5 pF
 
-Buffer closed loop rise time (10% to 90%) --> <= 70ns
+Buffer closed loop rise time (10% to 90%) --> <= 70 ns
 
-Slew rate --> 𝟓𝑽/𝝁𝒔
+Slew rate --> 𝟓 𝑽/𝝁𝒔
