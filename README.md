@@ -26,4 +26,7 @@ Buffer closed loop rise time (10 % to 90 %) --> <= 70 ns
 
 Slew rate --> 𝟓 𝑽/𝝁𝒔
 
+Application:
+Unity gain buffer.
+
 The Design using Analog designers toolbox (ADT) and open & closed-loop simulations on Cadence virtuoso.
