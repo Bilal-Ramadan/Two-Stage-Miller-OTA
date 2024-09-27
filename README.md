@@ -29,4 +29,4 @@ Slew rate: 𝟓 𝑽/𝝁𝒔
 Application:
 Unity gain buffer.
 
-The Design using Analog designer's toolbox (ADT) and open & closed-loop simulations on Cadence virtuoso.
+Designed using gm/id design methodology on Analog designer's toolbox (ADT) and open & closed-loop simulations on Cadence virtuoso.
